@@ -3,3 +3,4 @@ moltbot.org
 molt.bot
 openclaw.ai
 cockpille.nl
+*.cockpille.nl
