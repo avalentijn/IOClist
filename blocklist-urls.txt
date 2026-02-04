@@ -2,4 +2,3 @@ clawd.bot
 moltbot.org
 molt.bot
 openclaw.ai
-cockpille.nl
