@@ -3,6 +3,9 @@
 176.31.81.60
 194.34.132.49
 
+# Mining related IP's
+34.149.22.228
+
 # Former firewall Address Objects
 37.133.156.187
 57.128.230.106
