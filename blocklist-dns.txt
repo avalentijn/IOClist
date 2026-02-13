@@ -3,3 +3,11 @@ clawd.bot
 moltbot.org
 molt.bot
 openclaw.ai
+
+# Former firewall Address objects
+bl.searchpoweronline.com
+lawrencevilleplumber.xyz
+adx-tk.rayjump.com
+worldlink-isp.com
+bifrost-https-v4.gw.postman.com
+bifrost-v4-global.gw.postman.com
