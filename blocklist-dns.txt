@@ -11,3 +11,8 @@ adx-tk.rayjump.com
 worldlink-isp.com
 bifrost-https-v4.gw.postman.com
 bifrost-v4-global.gw.postman.com
+
+# Mallicious PDF Editors
+pdf-converkit.com
+pdf-converkitcdn.com
+cleareditpdf.com
