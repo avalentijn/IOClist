@@ -16,3 +16,7 @@ bifrost-v4-global.gw.postman.com
 pdf-converkit.com
 pdf-converkitcdn.com
 cleareditpdf.com
+
+# epic-fury-roaring-lion-sparks
+shirideitch.com
+api.ra-backup.com
