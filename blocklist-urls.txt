@@ -21,3 +21,6 @@ cleareditpdf.com
 bit.ly/4tWJhQh
 api.ra-backup.com/analytics/submit.php
 www.shirideitch.com/wp-content/uploads/2022/06/RedAlert.apk
+
+# Fake Google securitysite
+google-prism.com
