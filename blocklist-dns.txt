@@ -22,3 +22,6 @@ shirideitch.com
 api.ra-backup.com
 # Fake Google securitysite
 google-prism.com
+
+# C2-Servers
+poyiew34z.us
